@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scott Garzon Photography</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0fff0; /* pastel green */
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      text-align: center;
+      padding: 1em;
+      background-color: #008000; /* dark green */
+      color: #fff;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #008000;
+      color: #fff;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Scott Garzon Photography</h1>
+    <p>Capturing moments, creating memories</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hi, I'm Scott Garzon, a 21-year-old photographer passionate about capturing beautiful moments through my lens.</p>
+  </section>
+
+  <section>
+    <h2>Portfolio</h2>
+    <p>Explore my stunning collection of photographs showcasing various themes and styles.</p>
+    <!-- Add your photo gallery or portfolio content here -->
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Feel free to reach out for inquiries or collaborations.</p>
+    <!-- Add your contact information or a contact form here -->
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Scott Garzon Photography</p>
+  </footer>
+
+</body>
+</html>
